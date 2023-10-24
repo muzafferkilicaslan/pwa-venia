@@ -1,0 +1,14 @@
+.greeting {
+    text-align: center;
+    margin: 1rem;
+}
+
+.greeting_icon {
+    text-align: center;
+    margin: 1rem;
+    font-size: 5rem;
+}
+
+.greetingPage {
+    text-align: center;
+}
